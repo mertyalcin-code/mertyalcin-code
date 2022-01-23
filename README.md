@@ -1,7 +1,6 @@
 # Mert Yalçın
-[http://www.mert-yalcin.com.tr] [![GitHub followers]
-
-(https://img.shields.io/github/followers/mertyalcin-code?style=social)](https://github.com/mertyalcin-code?tab=followers)
+[http://www.mert-yalcin.com.tr] 
+[![GitHub followers](https://img.shields.io/github/followers/mertyalcin-code?style=social)](https://github.com/mertyalcin-code?tab=followers)
 
 ![](https://komarev.com/ghpvc/?username=mertyalcin-code)
 ## Trainee Java-Angular Developer
