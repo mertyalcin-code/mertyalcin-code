@@ -1,6 +1,6 @@
 # Mert Yalçın
 [http://www.mert-yalcin.com.tr] [![GitHub followers]
-(https://img.shields.io/github/followers/mertyalcin-code?style=social)](https://github.com/mert-yalcin-code?tab=followers)
+(https://img.shields.io/github/followers/mertyalcin-code?style=social)](https://github.com/mertyalcin-code?tab=followers)
 ![](https://komarev.com/ghpvc/?username=mertyalcin-code)
 ## Trainee Java-Angular Developer
 I develop projects in java language and attend trainings in this field.
@@ -9,7 +9,7 @@ I develop projects in java language and attend trainings in this field.
 <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=angular&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mert-yalcin-code&hide=python&layout=compact&show_icons=true&theme=light">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertyalcin-code&hide=python&layout=compact&show_icons=true&theme=light">
   </p>
 ## Projects  
 ### Poembook
