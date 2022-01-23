@@ -5,7 +5,6 @@
 </p>
 
 <p align='center'>
-  <a href="https://gist.github.com/mertyalcin-code"><img src="https://img.shields.io/badge/gist-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/mertyalcin-metu/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="mailto:eng.mertyalcin.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="http://mert-yalcin.com.tr/"><img src="https://img.shields.io/badge/mertyalcin.com.tr-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" />
