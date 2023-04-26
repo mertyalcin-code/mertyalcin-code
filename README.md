@@ -9,7 +9,6 @@
  <a href="mailto:eng.mertyalcin.com"><img src="https://img.shields.io/badge/Outlook-0078D4.svg?&style=for-the-badge&logo=microsoft%20outlook&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
  <a href="http://mert-yalcin.com.tr/"><img src="https://img.shields.io/badge/mertyalcin.com.tr-F4D03E.svg?&style=for-the-badge&logo=Cliqz&logoColor=black" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="#"><img src="https://estruyf-github.azurewebsites.net/api/VisitorHit?user=mertyalcin-code&countColor=%237B1E7A" /></a>
 </p>
 
 
