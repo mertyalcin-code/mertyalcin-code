@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there <img src="https://user-images.githubusercontent.com/53148314/120832912-d7576900-c569-11eb-8de9-71da3412c259.gif" height="30">, I'm Mert Yalçın</h1>
 
 <p align='center'>
-  I develop projects in java language and attend trainings in this field.
+  I am a full-stack developer.
 </p>
 
 <p align='center'>
@@ -25,8 +25,7 @@
 ## Projects  
 
 ### Poembook
-- My original project which is a platform where people can share poetry and discuss about each other's poetry. 
-- Live version [https://poembook-app.herokuapp.com]
+- My original project is a platform where people can share poetry and discuss each other's poetry. 
 - Java Backend [https://github.com/mertyalcin-code/poembook]
 - Angular Frontend [https://github.com/mertyalcin-code/poembook-app]
 
