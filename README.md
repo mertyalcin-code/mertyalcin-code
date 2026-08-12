@@ -17,10 +17,6 @@
 <img src="https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=white%22%3E"></img>
 <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular&logoColor=61DAFB"></img>
 <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"></img>
- <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mertyalcin-code&hide=python&layout=compact&show_icons=true&theme=light">
-  </p>
-  <a href="https://github.com/mertyalcin-code"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mertyalcin-code&show_icons=true" /></a>
   
 ## Projects  
 
